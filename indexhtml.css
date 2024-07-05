@@ -1,0 +1,34 @@
+h1{
+    text-align: center;
+    scroll-padding-top: ;
+    color: rgb(224, 182, 182);
+    font-size: 400%;
+
+}
+body{
+    background-image: url(./nfs-heat-polestar-4k-ru-1336x768.jpg);
+}
+#a{
+    font-size: 200%;
+    color: rgb(146, 190, 42);
+}
+#b{
+    color: azure;
+}
+#c{
+    color: aquamarine;
+}
+#d{
+    color: cyan;
+}
+#f{
+    color: brown;
+    font-size: 200%;
+}
+#w{
+    color: hotpink;
+    font-size: 200%;
+}
+marquee{
+    max-width: 1000px;
+}
